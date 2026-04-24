@@ -10,4 +10,6 @@ public class NcLabo1Application {
         SpringApplication.run(NcLabo1Application.class, args);
     }
 
+
+
 }
